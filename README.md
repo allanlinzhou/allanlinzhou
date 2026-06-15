@@ -1,13 +1,12 @@
 ## Hi there, I'm Allan!👋
 
-I'm a second-year Electrical and Computer Engineering (Engineering Science) student at the University of Toronto. 
+I'm an Electrical and Computer Engineering (Engineering Science) student at the University of Toronto.
 
-- 🔭 Currently working on autonomous and manual-driving RTOS firmware and high-voltage power electronics on the University of Toronto FSAE Electric team.  
-- 🌱 Currently learning digital design with System Verilog and FPGAs.  
-- 👯 Previously worked on electrical and embedded systems on FRC robots as Captain of Arctos 6135 and front-end development for LifeTein and ONE800.
-- ⚡ Excited to be exploring electric vehicle, electronics, and high voltage systems engineering at the Engineering Design Labs this summer!
+- ⚡ I'm an incoming student placement on the Red Bull Formula 1 team on the Electronics and Powertrains team. 
+- 🔭 I’m currently part of the University of Toronto Formula SAE Electric team, where we design and manufacture Formula-style electric racecar for international design competitions.
+- 🌱 I’m currently interested in power and control electronics, embedded systems, and electric powertrains. 
 
-📫 [LinkedIn](https://www.linkedin.com/in/allanlzee/)  
+📫 [LinkedIn](https://www.linkedin.com/in/allanlinzhou/)  
 ⚡ [Website](https://allanlzee.github.io/allan.zhou/)
 
 <!--
