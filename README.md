@@ -9,7 +9,7 @@ I'm an Electrical and Computer Engineering (Engineering Science) student at the 
 📫 Feel free to reach me at: 
 - allan.zhou@mail.utoronto.ca
 - [LinkedIn](https://www.linkedin.com/in/allanlinzhou/)
-- [Website](https://allanlzee.github.io/allan.zhou/)
+- [Website](https://allanlinzhou.com/)
 
 <!--
 **allanlzee/allanlzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
