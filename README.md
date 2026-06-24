@@ -4,7 +4,8 @@ I'm an Electrical and Computer Engineering (Engineering Science) student at the 
 
 - ⚡ I'm an incoming student placement on the Red Bull Formula 1 team on the Electronics and Powertrains team. 
 - 🔭 I’m currently part of the University of Toronto Formula SAE Electric team, where we design and manufacture Formula-style electric racecar for international design competitions.
-- 🌱 I’m currently interested in power and control electronics, embedded systems, and electric powertrains. 
+- 🌱 I’m currently interested in power and control electronics, embedded systems, and electric powertrains.
+- ✨ Check out my latest work at [allanlinzhou.com](https://allanlinzhou.com/)! 
 
 📫 Feel free to reach me at: 
 - allan.zhou@mail.utoronto.ca
